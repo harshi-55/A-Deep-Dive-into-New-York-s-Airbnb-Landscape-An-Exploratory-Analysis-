@@ -1,2 +1,5 @@
 # A-Deep-Dive-into-New-York-s-Airbnb-Landscape-An-Exploratory-Analysis-
 This project is an Exploratory Data Analysis (EDA) of Airbnb listings in New York City, analyzing trends in pricing, room types, and neighborhood distribution. Through data cleaning, descriptive statistics, and visualizations, it uncovers patterns in availability, demand, and pricing across various boroughs in NYC.
+<br/><br/>
+This project performs a comprehensive Exploratory Data Analysis (EDA) on Airbnb listings in New York City to uncover trends and patterns in the short-term rental market. It examines key variables such as pricing, room types, location, and availability, providing valuable insights into how these factors vary across different neighborhoods and boroughs like Manhattan, Brooklyn, and Queens. Through data cleaning, preprocessing, and visualization, the analysis highlights popular areas for Airbnb rentals, compares price distributions, identifies outliers, and explores the relationship between reviews and booking trends. The findings offer a deeper understanding of the dynamics shaping NYC's Airbnb market, helping hosts, guests, and analysts make informed decisions.
+
